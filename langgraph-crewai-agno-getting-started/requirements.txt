@@ -1,0 +1,12 @@
+# LangGraph
+langgraph>=0.2.0
+langchain-openai>=0.3.0
+langchain>=0.3.0
+
+# CrewAI
+crewai>=1.0.0
+crewai-tools>=0.40.0
+
+# Agno
+agno>=1.0.0
+openai>=1.0.0
